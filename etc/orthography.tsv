@@ -1,0 +1,408 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+ʔ$	ʔ	ɓuʔ, iʔ	wakung, khumi, daai, chinbon, matu, ngmuun, nyhmoye, mkaang	345	U+0294 U+0024
+a	a	maʔmaʔ, naŋ	wakung, matu, ngmuun, khumi, daai, nyhmoye, chinbon, mkaang	306	U+0061
+ŋ$	ŋ	naŋ, ŋ̩miŋ	khumi, wakung, matu, ngmuun, daai, chinbon, nyhmoye, mkaang	266	U+014b U+0024
+.	+	i.a.kɣalïni.ti.kaʔ.ta, təŋ.təŋ	nyhmoye, daai, ngmuun, khumi, mkaang, chinbon, matu, wakung	234	U+002e
+i	i	mik, ŋ̩miŋ	matu, chinbon, wakung, daai, nyhmoye, ngmuun, khumi, mkaang	226	U+0069
+u	u	ɓuʔ, kut	matu, ngmuun, nyhmoye, daai, mkaang, wakung, khumi, chinbon	175	U+0075
+◦	+	pḁ◦tʰum, aʔ◦niʔ	matu, wakung, mkaang, chinbon, ngmuun, khumi, nyhmoye, daai	162	U+25e6
+a$	a	ha, pa	matu, nyhmoye, wakung, ngmuun, daai, mkaang, chinbon, khumi	159	U+0061 U+0024
+l	l	m̩leⁱ, túⁱli	khumi, matu, wakung, ngmuun, nyhmoye, daai, chinbon, mkaang	156	U+006c
+k$	k	lɔk, mik	matu, nyhmoye, daai, mkaang, chinbon, ngmuun, wakung, khumi	155	U+006b U+0024
+n$	n	sʰɛn, tin	ngmuun, daai, matu, khumi, wakung, chinbon, nyhmoye, mkaang	150	U+006e U+0024
+i$	i	tʰi, m̩si	khumi, nyhmoye, wakung, ngmuun, chinbon, mkaang, daai, matu	145	U+0069 U+0024
+n	n	aʔniʔniʔ, kani	khumi, wakung, chinbon, matu, mkaang, nyhmoye, daai, ngmuun	144	U+006e
+k	k	m̩ku, ʔkɣʰïʔ	daai, wakung, ngmuun, matu, chinbon, nyhmoye, khumi, mkaang	143	U+006b
+m	m	ŋ̩miŋ, maʔmaʔ	khumi, nyhmoye, ngmuun, wakung, matu, chinbon, daai, mkaang	142	U+006d
+ə	ə	təŋ.təŋ, tək	wakung, khumi, matu, chinbon, daai, ngmuun, mkaang, nyhmoye	137	U+0259
+^t	t	təŋ.təŋ, túⁱli	matu, mkaang, ngmuun, nyhmoye, wakung, chinbon, khumi, daai	131	U+005e U+0074
+t	t	təŋ.təŋ, paᵘŋtši	nyhmoye, chinbon, ngmuun, daai, mkaang, matu, wakung, khumi	119	U+0074
+^p	p	pim, pa	mkaang, chinbon, matu, daai, ngmuun, nyhmoye, wakung, khumi	119	U+005e U+0070
+ʔ	ʔ	aʔniʔniʔ, aʔ◦niʔ	daai, ngmuun, nyhmoye, wakung, chinbon, mkaang, matu, khumi	118	U+0294
+ɔ	ɔ	lɔk, sɔʔ	daai, nyhmoye, mkaang, chinbon, ngmuun, matu, wakung, khumi	118	U+0254
+^ḁ	ḁ/a	ḁʔ◦tʰaːⁱ, ḁ◦ɓoːk	chinbon, matu, ngmuun, wakung, daai, mkaang, nyhmoye, khumi	116	U+005e U+1e01
+p	p	m̩papum, ŋpɣʰa	daai, wakung, nyhmoye, chinbon, mkaang, khumi, ngmuun, matu	115	U+0070
+ŋ	ŋ	təŋ.təŋ, paᵘŋtši	khumi, matu, nyhmoye, chinbon, ngmuun, daai, mkaang, wakung	114	U+014b
+^k	k	kut, ko	khumi, wakung, mkaang, matu, nyhmoye, ngmuun, daai, chinbon	113	U+005e U+006b
+^m	m	mik, méⁱ	daai, chinbon, khumi, nyhmoye, wakung, matu, mkaang, ngmuun	111	U+005e U+006d
+^kʰ	kʰ	kʰo, kʰɔ	chinbon, mkaang, daai, nyhmoye, ngmuun, matu, wakung, khumi	108	U+005e U+006b U+02b0
+^l	l	lɔk, lám	mkaang, matu, chinbon, khumi, daai, nyhmoye, ngmuun, wakung	108	U+005e U+006c
+m$	m	lám, pim	mkaang, daai, nyhmoye, ngmuun, matu, chinbon, khumi	102	U+006d U+0024
+o	o	kʰomik, m̩lokohan	chinbon, matu, ngmuun, khumi, wakung, nyhmoye, mkaang, daai	97	U+006f
+^m̩	m̩	m̩leⁱ, m̩◦ná	chinbon, ngmuun, daai, nyhmoye, matu, mkaang	94	U+005e U+006d U+0329
+ɛ	ɛ	sʰɛn, sɛʔ	wakung, matu, daai, nyhmoye, khumi, mkaang, ngmuun, chinbon	90	U+025b
+^sʰ	sʰ	sʰa, sʰuⁱsʰak	wakung, ngmuun, daai, khumi, nyhmoye, mkaang, matu, chinbon	86	U+005e U+0073 U+02b0
+ï	ɨ	ʔɣïʔ, ʔkɣʰïʔ	chinbon, ngmuun, nyhmoye, daai, khumi, matu, mkaang	82	U+00ef
+j	j	ŋ̩jaːk, m̩ja	chinbon, wakung, ngmuun, khumi, matu, daai, nyhmoye, mkaang	80	U+006a
+t$	t	kut, mat	chinbon, daai, matu, ngmuun, nyhmoye, mkaang	72	U+0074 U+0024
+u ́ⁱ	ui	
+^s	s	suⁱʔ, sɛʔ	chinbon, matu, daai, nyhmoye, wakung, khumi, ngmuun, mkaang	69	U+005e U+0073
+^ŋ̩	ŋ̍	ŋ̩miŋ, ŋ̩ɴ̹a	ngmuun, daai, nyhmoye, matu	68	U+005e U+014b U+0329
+u$	u	tʰu, lu	wakung, ngmuun, daai, khumi, matu, mkaang, nyhmoye, chinbon	67	U+0075 U+0024
+^n	n	naŋ, náŋ	wakung, khumi, chinbon, matu, daai, ngmuun, mkaang, nyhmoye	66	U+005e U+006e
+^h	h	ha, haːt	chinbon, khumi, matu, wakung, daai, nyhmoye, mkaang, ngmuun	66	U+005e U+0068
+^ʔ	ʔ	ʔɣïʔ, ʔkɣʰïʔ	daai, nyhmoye, ngmuun, matu, chinbon	65	U+005e U+0294
+^tʰ	tʰ	tʰi, tʰu	khumi, matu, nyhmoye, daai, wakung, chinbon, mkaang, ngmuun	64	U+005e U+0074 U+02b0
+tʰ	tʰ	pḁ◦tʰum, m̩tʰiʔ	wakung, daai, khumi, matu, chinbon, nyhmoye, mkaang, ngmuun	64	U+0074 U+02b0
+kʰ	kʰ	meⁱʔkʰu, ʔkʰaːn◦kʰo	wakung, daai, khumi, matu, nyhmoye, ngmuun, chinbon, mkaang	61	U+006b U+02b0
+aː	aː	jaːk, ŋ̩jaːk	nyhmoye, daai, mkaang, ngmuun, chinbon, matu, khumi	59	U+0061 U+02d0
+^a	a	aʔ, aʔ◦niʔ	chinbon, wakung, matu, nyhmoye, ngmuun, daai, mkaang, khumi	56	U+005e U+0061
+o$	o	kʰo, ko	chinbon, matu, khumi, ngmuun, nyhmoye, mkaang	52	U+006f U+0024
+ɣʰ	ɣʰ	ŋpɣʰa, ʔkɣʰïʔ	daai, nyhmoye, mkaang, ngmuun, wakung, khumi	52	U+0263 U+02b0
+^x	x	xïⁱ, xuⁱ	wakung, matu, daai, mkaang, nyhmoye, ngmuun	50	U+005e U+0078
+^ɓ	ɓ	ɓuʔ, ɓɔ́ːk	chinbon, mkaang, ngmuun, matu, nyhmoye, wakung, daai, khumi	49	U+005e U+0253
+^j	j	jɔːŋ, jaːk	chinbon, khumi, daai, ngmuun, nyhmoye, mkaang, matu, wakung	47	U+005e U+006a
+uⁱ$	ui	ŋuⁱ, xuⁱ	matu, mkaang, ngmuun, nyhmoye, wakung, khumi, daai, chinbon	42	U+0075 U+2071 U+0024
+tu ́ⁱ	t ui	
+m ̩	m̩	
+š	ʃ	paᵘŋtši, tšin	ngmuun, mkaang, chinbon, nyhmoye, khumi	41	U+0161
+eⁱ$	ei	m̩leⁱ, tšʰeⁱ	chinbon, mkaang, daai, ngmuun, nyhmoye, matu, wakung, khumi	41	U+0065 U+2071 U+0024
+šʰ	ʃʰ	tšʰeⁱ, tšʰa	ngmuun, chinbon, nyhmoye, mkaang, khumi	39	U+0161 U+02b0
+ɛ$	ɛ	sʰɛ, lɛ	wakung, daai, matu, nyhmoye, mkaang, ngmuun	37	U+025b U+0024
+eⁱ	ei	meⁱʔkʰu, teⁱʔ	khumi, chinbon, wakung, mkaang, ngmuun, matu, nyhmoye, daai	37	U+0065 U+2071
+uː	uː	ɓuːk, muːt	mkaang, ngmuun, daai, nyhmoye, matu	37	U+0075 U+02d0
+ɔ$	ɔ	kʰɔ, tᵊkɔ	chinbon, daai, mkaang, ngmuun, khumi, wakung, nyhmoye	35	U+0254 U+0024
+x	x	əxəxə, tᵊxoʔ	wakung, matu, mkaang, daai, nyhmoye	35	U+0078
+v	v	təvó, ava	khumi, matu, wakung, nyhmoye, ngmuun, mkaang	35	U+0076
+^ŋ	ŋ	ŋuⁱ, ŋá	daai, matu, nyhmoye, ngmuun, mkaang, khumi, chinbon	35	U+005e U+014b
+ï$	ɨ	tʰï, ɣï	chinbon, ngmuun, daai, khumi, mkaang, matu, nyhmoye	35	U+00ef U+0024
+ɣ	ɣ	ʔɣïʔ, ʔkɣïʔ	daai, nyhmoye, mkaang, ngmuun, wakung, khumi	35	U+0263
+^tᵊ	t ə	tᵊkɔ, tᵊpʰisʰeʔ	wakung, khumi	33	U+005e U+0074 U+1d4a
+sʰ	sʰ	sʰuⁱsʰak, aːi◦sʰi	wakung, khumi, daai, mkaang, nyhmoye, matu, chinbon	33	U+0073 U+02b0
+uⁱ	ui	sʰuⁱsʰak, suⁱʔ	khumi, matu, ngmuun, daai, nyhmoye, mkaang, wakung, chinbon	33	U+0075 U+2071
+e	e	ɓenvəⁱɓen, ɓentaŋɓen	chinbon, wakung, khumi, matu, nyhmoye, ngmuun	33	U+0065
+^šʰ	ʃʰ	šʰi, šʰampïŋ	chinbon, mkaang, ngmuun, khumi, matu	32	U+005e U+0161 U+02b0
+ŋ ̩◦	ŋ +
+aⁱ	ai	kaⁱʔ, kʰaⁱlɛᶺŋɗiˀ	khumi, matu, chinbon, mkaang, ngmuun, daai	32	U+0061 U+2071
+ə$	ə	pətamə, ḁtɬə	khumi, wakung, chinbon, nyhmoye, mkaang, ngmuun, matu	31	U+0259 U+0024
+á$	a	ŋá, m̩◦ná	daai, mkaang, wakung, ngmuun, nyhmoye, khumi, chinbon	31	U+00e1 U+0024
+ɔː	ɔː	jɔːŋ, mɔːŋ	daai, nyhmoye, mkaang, chinbon, matu, ngmuun	30	U+0254 U+02d0
+ã	ã	lãn, nãn	wakung, khumi, matu	29	U+00e3
+aⁱ$	ai	paⁱ, n̩laⁱ	matu, ngmuun, mkaang, khumi, chinbon, daai, wakung	29	U+0061 U+2071 U+0024
+á	á/a	náŋ, lám	mkaang, daai, ngmuun, nyhmoye, wakung, khumi, chinbon	28	U+00e1
+^v	v	vïn, vɔk	mkaang, matu, khumi, wakung, nyhmoye, ngmuun, daai	28	U+005e U+0076
+ɓ	ɓ	ḁ◦ɓoːk, ʔɓɛ	chinbon, daai, nyhmoye, matu, khumi, ngmuun, wakung	27	U+0253
+^mᵊ	m ə	mᵊny, mᵊkeⁱʔ	wakung, khumi	27	U+005e U+006d U+1d4a
+^ɴ	ɴ	ɴip, ɴaˀ	daai, nyhmoye, mkaang, chinbon, matu, ngmuun, khumi	27	U+005e U+0274
+pʰ	pʰ	kutpʰa, sʰaŋ.pʰɔ	chinbon, khumi, matu, nyhmoye, mkaang, wakung, ngmuun, daai	26	U+0070 U+02b0
+ɗ	ɗ	kalɛ.ɗi, ŋ̩ɗïːⁱʔ	wakung, chinbon, ngmuun, daai, nyhmoye, khumi, mkaang	26	U+0257
+s	s	aːⁱ◦sá, ḁjɔːⁱsapaⁱ	khumi, wakung, chinbon, ngmuun, daai, nyhmoye, matu, mkaang	25	U+0073
+^i	i	iʔ, ip	daai, nyhmoye, ngmuun, chinbon, matu, wakung, mkaang, khumi	24	U+005e U+0069
+ḁ	ḁ/a	pḁ◦tʰum, pḁko	mkaang, matu, chinbon	24	U+1e01
+ⁱ	i	
+í$	í/i	lí, ʔpa.mí	mkaang, wakung, khumi, daai, nyhmoye, ngmuun, chinbon	24	U+00ed U+0024
+d	d	mal.pədiŋ, mᵊdĩn	wakung, khumi, matu, nyhmoye, chinbon, daai	24	U+0064
+^ɣ	ɣ	ɣïⁱ, ɣa	mkaang, daai, ngmuun, nyhmoye	24	U+005e U+0263
+^pᵊ	p ə	pᵊju, pᵊjaᵘɓoʔ	khumi, wakung	23	U+005e U+0070 U+1d4a
+ïⁱ$	ɨi	xïⁱ, ɣïⁱ	mkaang, daai, matu, nyhmoye, chinbon, ngmuun	22	U+00ef U+2071 U+0024
+p$	p	ɴip, ip	chinbon, matu, daai, nyhmoye, mkaang, ngmuun	22	U+0070 U+0024
+^ə	ə	əkʰɛ̃ŋ, əlînkîn	khumi, wakung, nyhmoye	22	U+005e U+0259
+h	h	m̩lokohan, m̩puːⁱha	chinbon, nyhmoye, daai, ngmuun, matu, khumi	22	U+0068
+iː	iː	kʰɔmiːk, ɴiːm	chinbon, nyhmoye, matu, mkaang, khumi, ngmuun, daai	21	U+0069 U+02d0
+aːⁱ$	aːi	ḁʔ◦tʰaːⁱ, ŋ̩ŋaːⁱ	daai, matu, khumi, mkaang, ngmuun	21	U+0061 U+02d0 U+2071 U+0024
+^pʰ	pʰ	pʰɛ, pʰysᵊkə	wakung, chinbon, ngmuun, khumi, matu, daai, nyhmoye	17	U+005e U+0070 U+02b0
+^kᵊ	k ə	kᵊnu, kᵊdœʔ	wakung, khumi	17	U+005e U+006b U+1d4a
+ú$	ú/u	tu ́ⁱnú, ɴú	daai, nyhmoye, mkaang, ngmuun, khumi, wakung	16	U+00fa U+0024
+aᵘ	au	paᵘŋtši, aʔ◦jaᵘ◦kap	chinbon, khumi, wakung	16	U+0061 U+1d58
+ɴ̹	ɴ̹/ɴ	ɴ̹a.ɴ̹a, ŋ̩ɴ̹a	ngmuun, daai, nyhmoye, mkaang, chinbon, matu	16	U+0274 U+0339
+oː	oː	ḁ◦ɓoːk, ɓoːt	chinbon, nyhmoye, matu, ngmuun	15	U+006f U+02d0
+^š	ʃ	šuⁱ, šɔː	ngmuun, mkaang, nyhmoye, matu	15	U+005e U+0161
+^d	d	diŋ, dəŋ.suŋ	khumi, matu, wakung, mkaang, chinbon	15	U+005e U+0064
+ɛᶺ	ɛʌ	niːmlẽŋšʰɛᶺŋ, kʰaⁱlɛᶺŋɗiˀ	khumi, nyhmoye	14	U+025b U+1dba
+r	r	hɔːⁱvãnre, sʰərïʔ	khumi, wakung	14	U+0072
+l$	l	xul, ŋɔl	matu	14	U+006c U+0024
+eᵘ	eu	vuⁱneᵘŋ, heᵘʔ	khumi	14	U+0065 U+1d58
+ɬ	ɬ	tɬaŋ, m̩kʰïːk.ɬï	chinbon, matu, ngmuun, mkaang, daai	13	U+026c
+y	y	nypyʔ, nypydiʔ	wakung	13	U+0079
+^ɗ	ɗ	ɗíːk, ɗaŋki.tʰaⁱˀ	matu, daai, khumi, mkaang, nyhmoye	12	U+005e U+0257
+ïⁱ	ɨi	ɣïⁱ◦paːⁱ, vïⁱno	chinbon, mkaang, matu	12	U+00ef U+2071
+í	í/i	tʰíŋ, m̩tín	nyhmoye, daai, khumi, chinbon, matu	12	U+00ed
+ïː	ɨː	mïːt, pïːn	chinbon, mkaang, nyhmoye, ngmuun, daai	12	U+00ef U+02d0
+ɨ	ɨ	m̩sɨn, sʰɨŋ◦tɔn	ngmuun, mkaang	12	U+0268
+ɴ	ɴ	sʰɨŋɴak, mɴïːp	nyhmoye, chinbon, ngmuun, daai, matu	11	U+0274
+aⁱˀ$	ai ʔ	ɗaŋki.tʰaⁱˀ, ətʰaⁱˀ	khumi, chinbon, matu, daai	11	U+0061 U+2071 U+02c0 U+0024
+ũ	ũ	kũtʰɛʔkũŋ, sũŋváⁱʔ	wakung, khumi	11	U+0169
+^ɬ	ɬ	ɬuŋ, ɬa	chinbon, nyhmoye, daai	10	U+005e U+026c
+^m̩s	m s	m̩si, m̩sɔsəʔ	chinbon, daai, ngmuun, nyhmoye	10	U+005e U+006d U+0329 U+0073
+ɹʰ	ɹʰ	ʔkɹʰiːⁱ, ʔkɹʰuk	ngmuun	10	U+0279 U+02b0
+ɛː	ɛː	lɛːŋtsuːŋ, ʔpɣʰɛːŋm̩suːŋ	matu, mkaang, chinbon, ngmuun, daai	10	U+025b U+02d0
+aː$	aː	tʰaː, ŋ̩ŋaː	nyhmoye, ngmuun, chinbon, wakung	10	U+0061 U+02d0 U+0024
+əⁱ	əi	kəⁱniʔ, məⁱʔ	ngmuun, daai, nyhmoye, matu, chinbon	9	U+0259 U+2071
+^w	w	wok, wɔk	daai, chinbon, ngmuun, nyhmoye, matu	9	U+005e U+0077
+ɔ́ː	ɔ́ː/ɔː	ɓɔ́ːk, sɔ́ːŋ	chinbon, daai, nyhmoye, mkaang, ngmuun, khumi	9	U+0254 U+0301 U+02d0
+y$	y	mᵊny, vy	wakung	9	U+0079 U+0024
+éⁱ$	éⁱ/ei	méⁱ, k̯éⁱ	daai, mkaang, nyhmoye, khumi, ngmuun	9	U+00e9 U+2071 U+0024
+œ	œ	kʰœ◦ni, kᵊdœʔ	wakung	9	U+0153
+e$	e	kʰe, hɔːⁱvãnre	ngmuun, chinbon, khumi, mkaang, wakung, matu	9	U+0065 U+0024
+ẽ	ẽ	tʰẽiŋ, topɣʰẽŋ	khumi, wakung	8	U+1ebd
+ɔːⁱ$	ɔːⁱ/ɔːi	jɔːⁱ, aʔɔːⁱ	mkaang, daai, chinbon, ngmuun, khumi	8	U+0254 U+02d0 U+2071 U+0024
+oᵘ$	oᵘ/ou	ɓoᵘ, ḁlïⁱpoᵘ	mkaang, nyhmoye, matu, chinbon, ngmuun	8	U+006f U+1d58 U+0024
+ 	NULL	m ̩lɔʔ, ŋ ̩pʰit	daai, ngmuun, nyhmoye, matu	8	U+200a
+ú	ú/u	lúŋ, ʔsʰúm	ngmuun, daai, mkaang, nyhmoye	8	U+00fa
+aːᵘ$	aːᵘ/aːu	naːᵘ, ḁ◦tʰaːᵘ	chinbon, mkaang, matu	8	U+0061 U+02d0 U+1d58 U+0024
+iˀ$	i ʔ	kʰɶmiˀ, mɗiˀ	daai, khumi, wakung, chinbon, ngmuun, matu	8	U+0069 U+02c0 U+0024
+^ʔs	ʔ s	ʔsaːŋ, ʔsɔŋ.lám	daai, ngmuun, nyhmoye	8	U+005e U+0294 U+0073
+ɛⁱ	ɛⁱ/ɛi	ɓaⁱsunɛⁱnaʔ, kɛⁱʔ	khumi, matu	7	U+025b U+2071
+^ï	ɨ	ïŋ.ta, ïŋ	mkaang, daai, chinbon, ngmuun, nyhmoye	7	U+005e U+00ef
+ɔⁱ	ɔⁱ/ɔi	hɔⁱ.jaŋ, lamvɔⁱmáŋ	khumi, chinbon, mkaang, ngmuun	7	U+0254 U+2071
+^u	u	u.lɛ, u.ja	matu, mkaang, chinbon, ngmuun, daai, nyhmoye	7	U+005e U+0075
+^aːⁱ	aːi	aːⁱ◦sʰi, aːⁱ◦sá	mkaang, matu, ngmuun, daai	7	U+005e U+0061 U+02d0 U+2071
+mᵊ	m ə	kʰəŋmᵊdəʔ, a◦mᵊkʰĩŋ	wakung	7	U+006d U+1d4a
+ɛᵘ	ɛu	tʰɛᵘŋ, jɛᵘʔ	khumi	7	U+025b U+1d58
+^n̩	n̩	n̩laⁱ, n̩tʰin	matu	7	U+005e U+006e U+0329
+ɨ$	ɨ	m̩pɣʰumsɨ, m̩sʰɨ	ngmuun, mkaang	7	U+0268 U+0024
+aᵘ$	au	kamŋaᵘ, jaᵘ	wakung, khumi, daai	7	U+0061 U+1d58 U+0024
+ɹ	ɹ	kɹaʔ, samɹuʔ	ngmuun	7	U+0279
+úː	úː/uː	kúːk, m̩kʰúːk.lu	daai, ngmuun, mkaang, nyhmoye	7	U+00fa U+02d0
+əⁱ$	əi	ŋ̩.əⁱ, ḁ◦təⁱ	ngmuun, nyhmoye, matu, chinbon	7	U+0259 U+2071 U+0024
+M	m	m̩Ma, m̩Mʌ	chinbon, ngmuun, daai, nyhmoye	7	U+004d
+ɔ̃	ɔ̃	mɔ̃ŋ, ɓɔ̃káɓɔ̃	wakung, khumi	7	U+0254 U+0303
+õ	õ	kõɣãŋja, kᵊsʰõn	wakung, khumi, matu	6	U+00f5
+ó$	ó	hó, təvó	khumi	6	U+00f3 U+0024
+ĩ	ĩ	sʰĩn, a◦mᵊkʰĩŋ	wakung, khumi	6	U+0129
+əː	əː	həːŋ, ɓəːk	nyhmoye, chinbon, ngmuun	6	U+0259 U+02d0
+^k̯	k	k̯i, k̯ɨk	mkaang, ngmuun, chinbon, daai	6	U+005e U+006b U+032f
+^pᵊsʰ	p ə sʰ	pᵊsʰu, pᵊsʰín	khumi	6	U+005e U+0070 U+1d4a U+0073 U+02b0
+ø$	ø	ḁ◦ɗø, nᵊø	wakung	6	U+00f8 U+0024
+^uⁱ$	ui	uⁱ	mkaang, ngmuun, daai, nyhmoye, matu	6	U+005e U+0075 U+2071 U+0024
+ɔᵘ	ɔu	ɓɔᵘʔ, lɔᵘŋ	mkaang, wakung, ngmuun, daai	6	U+0254 U+1d58
+_̩	+	m ̩lɔʔ, ŋ ̩◦laːm	daai, nyhmoye, ngmuun	6	U+005f U+0329
+ó	o	tᵊhóʔ, tə◦vó.muⁱ	khumi	5	U+00f3
+ɔⁱ$	ɔi	lɛ.lɔⁱ, tɔⁱ	mkaang, ngmuun, chinbon, khumi	5	U+0254 U+2071 U+0024
+^M	m	Maⁱ, Maⁱkʰu	matu, mkaang, chinbon, khumi	5	U+005e U+004d
+u̥	u̥/u	lu̥◦mu, lu̥◦kʰɔːŋ	mkaang, ngmuun, daai, nyhmoye	5	U+0075 U+0325
+^ɴ̹	ɴ	ɴ̹a.ɴ̹a, ɴ̹a.kɔːi	khumi, mkaang, ngmuun, daai, nyhmoye	5	U+005e U+0274 U+0339
+aˀ$	aˀ	ɴaˀ, kɣaˀ	daai, wakung, nyhmoye, matu	5	U+0061 U+02c0 U+0024
+k̯	k	kʰɔk̯ʔa, ʔk̯i	mkaang, ngmuun, khumi, wakung	5	U+006b U+032f
+^aː	aː	aːi◦sʰi, aːso	chinbon, nyhmoye, daai	5	U+005e U+0061 U+02d0
+úⁱ	ui	túⁱli, tʰúⁱʔ	khumi, mkaang, ngmuun, daai, nyhmoye	5	U+00fa U+2071
+ɔ́	ɔ́	tʰiŋ.mtɔ́n, ɣɔ́ŋ	daai, khumi, mkaang, nyhmoye	5	U+0254 U+0301
+^kᵊsʰ	k ə b sʰ	kᵊsʰáːⁱ.ho, kᵊsʰaᵘˀ	khumi, wakung	5	U+005e U+006b U+1d4a U+0073 U+02b0
+b	b	bəmba, luŋ◦buⁱ	matu, khumi	5	U+0062
+uˀ$	u ʔ	ɣuˀ, juˀ	daai, nyhmoye, matu	5	U+0075 U+02c0 U+0024
+ms	m s	kʰɔ.msuːŋ, nɛᶺmsə	ngmuun, khumi, nyhmoye	5	U+006d U+0073
+^í	í	ím, í.ïŋ	ngmuun, mkaang, daai, nyhmoye	5	U+005e U+00ed
+ə̃	ə̃	kə̃pʰə̃ŋ, no◦tᵊrə̃ŋ	wakung, khumi	5	U+0259 U+0303
+ɔːⁱ	ɔːi	hɔːⁱvãnre, ḁjɔːⁱsapaⁱ	khumi, mkaang	5	U+0254 U+02d0 U+2071
+^ts̆ʰ	tʃʰ	ts̆ʰi, ts̆ʰiŋ.xɨŋ	mkaang, chinbon	4	U+005e U+0074 U+0073 U+0306 U+02b0
+eː	eː	ʔkɹʰeːt, peːt	chinbon, ngmuun, matu	4	U+0065 U+02d0
+ɛ́$	ɛ	tᵊ◦kɛ́, mopɛ́	wakung, daai	4	U+025b U+0301 U+0024
+ks	k s	pilikso, aʔdiːkso	chinbon, nyhmoye, matu	4	U+006b U+0073
+^mᵊs	m ə s	mᵊsĩŋ, mᵊsy	wakung	4	U+005e U+006d U+1d4a U+0073
+ʔs	ʔ s	ḁʔsanɡ, ḁʔsiŋ	daai, nyhmoye	4	U+0294 U+0073
+éⁱ	ei	tʰéⁱŋ.ɗuŋ, céⁱniʔé	nyhmoye, mkaang	4	U+00e9 U+2071
+ɬʰ	ɬʰ	tɬʰa, tɬʰi	matu	4	U+026c U+02b0
+nn	nː	ŋan.nu, ʔkʰɔn.nú	chinbon, daai, khumi, matu	4	U+006e U+006e
+œ$	œ	mɛkʰœ, hœ	wakung	4	U+0153 U+0024
+^ts	ts	tsɔna, tsɔŋ.lám	mkaang, nyhmoye	4	U+005e U+0074 U+0073
+ɔ́$	ɔ	pʰɔ́, ŋɔ́	daai, chinbon, khumi	4	U+0254 U+0301 U+0024
+m̩	m̩	kuʔm̩ɣa, m̩tuⁱ.m̩lɛʔ	nyhmoye, daai	4	U+006d U+0329
+ɛ́ː	ɛː	pɛ́ːt, m̩sɛ́ːŋkɔlak	daai, mkaang	4	U+025b U+0301 U+02d0
+ə́	ə	tʰɔ̃nə́ʔ, hɔːⁱʔə́ʔ	khumi, wakung	4	U+0259 U+0301
+^f	f	fá, faːn◦kʰɔ	mkaang, wakung	4	U+005e U+0066
+^ʔsʰ	ʔ sʰ	ʔsʰúm, ʔsʰɨŋ	ngmuun, daai, nyhmoye	4	U+005e U+0294 U+0073 U+02b0
+^ḁh	ḁ/a h	ḁhɔpʰət, ḁhiŋ	mkaang, chinbon, nyhmoye, matu	4	U+005e U+1e01 U+0068
+uːⁱ$	uːi	muːⁱ, m̩puːⁱ	khumi, daai, nyhmoye	4	U+0075 U+02d0 U+2071 U+0024
+^b	b	bəmba, boʔ	matu, khumi	4	U+005e U+0062
+u_́ⁱ|$	ui	tu ́ⁱ|	mkaang, ngmuun, daai, nyhmoye	4	U+005f U+0301 U+2071 U+007c U+0024
+eːⁱ$	eːi	ŋ̩sʰeːⁱ, meːⁱ	mkaang, chinbon, daai, nyhmoye	4	U+0065 U+02d0 U+2071 U+0024
+f	f	ḁha.ḁfeⁱfeⁱ, vuⁱfa	mkaang, wakung	4	U+0066
+ts	ts	lɛːŋtsuːŋ, hɔtsiʔa	mkaang	4	U+0074 U+0073
+aːⁱ	aːi	tʰaːⁱʔ, kaːⁱʔ	khumi, mkaang, daai	4	U+0061 U+02d0 U+2071
+^ḁs	ḁ/a s	ḁsak, ḁsiŋ	chinbon, nyhmoye, matu	4	U+005e U+1e01 U+0073
+ø	ø	mᵊkʰøʔ, hø.əʔ	wakung	4	U+00f8
+áⁱˀ$	á i ʔ	kani.náⁱˀ, sʰam.jáⁱˀ	khumi	4	U+00e1 U+2071 U+02c0 U+0024
+^eⁱ$	ei	eⁱ	chinbon, ngmuun, daai, nyhmoye	4	U+005e U+0065 U+2071 U+0024
+^ɔː	ɔː	ɔːïŋ, ɔːk	mkaang, ngmuun, nyhmoye	3	U+005e U+0254 U+02d0
+ʔsʰ	ʔ sʰ	ḁʔsʰɛ, xïⁱʔsʰeⁱ	mkaang, daai	3	U+0294 U+0073 U+02b0
+aˀ	a ʔ	sʰaˀtšʰi, sʰaˀkʰáˀtʰeⁱˀ	chinbon, daai, nyhmoye	3	U+0061 U+02c0
+ʌ$	ʌ	m̩lʌ, xʌ	nyhmoye	3	U+028c U+0024
+aᵘˀ$	a u ʔ	kᵊsʰaᵘˀ, kəšɛᵘŋ◦paᵘˀ	wakung, khumi	3	U+0061 U+1d58 U+02c0 U+0024
+ɶ	ɶ	kʰɶmiˀ, kɶʔ	wakung	3	U+0276
+ɔᶺ$	ɔʌ	pɔᶺ, tɔᶺ	nyhmoye	3	U+0254 U+1dba U+0024
+ɔᶺ	ɔʌ	kɔᶺk, ʔpɔᶺmi	nyhmoye	3	U+0254 U+1dba
+tᵊ	t ə	no◦tᵊrə̃ŋ, kʰu.tᵊmáⁱˀ	khumi, wakung	3	U+0074 U+1d4a
+pᵊ	p ə	tʰaⁱpᵊlomɛᵘŋ, tʰaⁱpᵊlo	khumi	3	U+0070 U+1d4a
+^c	c	céⁱ, céⁱniʔé	nyhmoye	3	U+005e U+0063
+^o	o	onsʰitʰɛʔ, onsʰiˀ.ətʰaⁱˀ	wakung, khumi, matu	3	U+005e U+006f
+^mᵊsʰ	m ə sʰ	mᵊsʰaʔ, mᵊsʰeiʔ	wakung	3	U+005e U+006d U+1d4a U+0073 U+02b0
+éː	eː	péːt, héːŋ	ngmuun, nyhmoye, khumi	3	U+00e9 U+02d0
+eᵘ$	eu	kʰeᵘ, pʰeᵘ	khumi	3	U+0065 U+1d58 U+0024
+əːⁱ$	əːi	nəːⁱ, aŋšʰəːⁱ	mkaang, ngmuun, daai	3	U+0259 U+02d0 U+2071 U+0024
+əᵘ	əu	ləᵘʔ, ŋ̩jəᵘk	chinbon, ngmuun, daai	3	U+0259 U+1d58
+kᵊ	k ə	tykᵊlãn, piʔkᵊʔ	wakung, khumi	3	U+006b U+1d4a
+_	+	tʰeⁱŋ.j ïŋ, n̩ xuʔ	chinbon, khumi, matu	3	U+005f
+aːᵘ	aːu	tʰaːᵘʔ, ḁšʰaːᵘpo	chinbon, khumi	3	U+0061 U+02d0 U+1d58
+u_́ⁱ	ui	tu ́ⁱnú	ngmuun, daai, nyhmoye	3	U+005f U+0301 U+2071
+ŋh	ŋ h	sʰɨŋhok, ts̆ʰiŋhɔk	mkaang, ngmuun, nyhmoye	3	U+014b U+0068
+uⁱˀ$	ui ʔ	mᵊxuⁱˀ, suⁱˀ	mkaang, wakung, daai	3	U+0075 U+2071 U+02c0 U+0024
+ḯ	ɨ	xḯn, əmḯn	khumi, daai, nyhmoye	3	U+1e2f
+^ɔ́ː	ɔː	ɔ́ːk	ngmuun, daai, nyhmoye	3	U+005e U+0254 U+0301 U+02d0
+ʌ́$	ɑ	hʌ́, sʰʌ́	nyhmoye	3	U+028c U+0301 U+0024
+ɛˀ$	ɛ ʔ	tʰeⁱŋ.kɛlɛˀ, tᵊmɛˀ	wakung, khumi, matu	3	U+025b U+02c0 U+0024
+^m̩sʰ	m̩ sʰ	m̩sʰɨ, m̩sʰɔp	ngmuun, daai, nyhmoye	3	U+005e U+006d U+0329 U+0073 U+02b0
+áⁱ$	ai	sə◦váⁱ, pənáⁱ	khumi, mkaang	3	U+00e1 U+2071 U+0024
+^uⁱ	ui	uⁱʔ	ngmuun, daai, nyhmoye	3	U+005e U+0075 U+2071
+^ŋ̩sʰ	ŋ̍ sʰ	ŋ̩sʰut, ŋ̩sʰeːⁱ	daai, nyhmoye	3	U+005e U+014b U+0329 U+0073 U+02b0
+ɛᶺ$	ɛʌ	sʰa◦tɛᶺ, ɓɛᶺ	nyhmoye, mkaang	3	U+025b U+1dba U+0024
+î	ɨ	əlînkîn	khumi	2	U+00ee
+ɛⁱ$	ɛi	xɛⁱ, ɬï.ɛⁱ	nyhmoye, matu	2	U+025b U+2071 U+0024
+^ḁsʰ	ḁ/a sʰ	ḁsʰɛːn, ḁsʰaᵘ	wakung, matu	2	U+005e U+1e01 U+0073 U+02b0
+iˀ	i ʔ	onsʰiˀ.ətʰaⁱˀ, ɓəiˀa	khumi, matu	2	U+0069 U+02c0
+uˀ	u ʔ	pɣʰuˀpɣʰaⁱ, m̩kʰuˀ◦lu	daai, nyhmoye	2	U+0075 U+02c0
+^à$	a	à	wakung, khumi	2	U+005e U+00e0 U+0024
+ns	n s	lãnsẽn, pitšansïmə	chinbon, khumi	2	U+006e U+0073
+k̯ʰ	kʰ	sʰaʔk̯ʰi	mkaang, ngmuun	2	U+006b U+032f U+02b0
+^a̯	a	a̯hɔk, a̯taːn	mkaang, nyhmoye	2	U+005e U+0061 U+032f
+^r	r	rïʔ, rampaːⁱˀ	khumi	2	U+005e U+0072
+^ã	ã	ãnɱï, ãnpɔ	khumi	2	U+005e U+00e3
+oᵘ	ou	taknoᵘŋ, kʰo◦hoᵘŋ	matu	2	U+006f U+1d58
+nsʰ	n sʰ	onsʰitʰɛʔ, onsʰiˀ.ətʰaⁱˀ	wakung, khumi	2	U+006e U+0073 U+02b0
+à	a	làʔ, tàʔ	wakung	2	U+00e0
+é	e	k̯éi, mᵊhéiʔ	wakung, ngmuun	2	U+00e9
+^úⁱ$	ui	úⁱ	mkaang, ngmuun	2	U+005e U+00fa U+2071 U+0024
+iːⁱ$	iː	ʔkɹʰiːⁱ, tiːⁱ	ngmuun, chinbon	2	U+0069 U+02d0 U+2071 U+0024
+^oː	oː	oːk	chinbon, matu	2	U+005e U+006f U+02d0
+ɱ	ɱ	ŋ̩ɱɔ, ãnɱï	ngmuun, khumi	2	U+0271
+w	w	šʰuⁱwat, waːm◦wɔ	chinbon, daai	2	U+0077
+^aːⁱ$	aːi	aːⁱ	mkaang, matu	2	U+005e U+0061 U+02d0 U+2071 U+0024
+^s̆	ʃ	s̆ïⁱ	mkaang, nyhmoye	2	U+005e U+0073 U+0306
+oⁱ$	oi	ḁtoⁱ, ŋloⁱ	ngmuun, chinbon	2	U+006f U+2071 U+0024
+œ̃	œ̃	kœ̃ŋ, nakətɛt.təkʰœ̃n	wakung	2	U+0153 U+0303
+oˀ	o ʔ	joˀlïŋ, sʰampʰoˀla	chinbon, khumi	2	U+006f U+02c0
+ɡ$	g	ḁʔsanɡ, tᵊœʔjanɡ	wakung, daai	2	U+0261 U+0024
+lʰ	lʰ	ŋ ̩plʰiŋ, ʔplʰi	ngmuun	2	U+006c U+02b0
+ẽⁱ	ẽi	tẽⁱŋ, kalẽⁱn	wakung, khumi	2	U+1ebd U+2071
+^jᵊ	j ə	jᵊ.ɛ	wakung	2	U+005e U+006a U+1d4a
+úⁱ$	ui	mlɛt.túⁱ, ˀtúⁱ	daai, nyhmoye	2	U+00fa U+2071 U+0024
+ts̆ʰ	tʃʰ	moʔts̆ʰo, tʰeⁱˀ◦ts̆ʰɔːŋ	chinbon, nyhmoye	2	U+0074 U+0073 U+0306 U+02b0
+^aˀ	a ʔ	aˀmaⁱˀ, aˀuⁱ	chinbon	2	U+005e U+0061 U+02c0
+^aⁱ	ai	aⁱ.tʰɔ, aⁱ◦šʰɨ	mkaang, ngmuun	2	U+005e U+0061 U+2071
+m̩s	m̩ s	ʔpɣʰɛːŋm̩suːŋ, ʔpɣʰɛm̩suːŋ	daai, nyhmoye	2	U+006d U+0329 U+0073
+ïːⁱ	ɨːi	ŋ̩ɗïːⁱʔ	daai, nyhmoye	2	U+00ef U+02d0 U+2071
+eⁱˀ$	ei ʔ	sʰaˀkʰáˀtʰeⁱˀ, ˀtʰeⁱˀ	daai	2	U+0065 U+2071 U+02c0 U+0024
+əə	əː	pəəŋ	ngmuun, daai	2	U+0259 U+0259
+^ïː	ɨː	ïːm, ïːmpʰu	khumi	2	U+005e U+00ef U+02d0
+t.t	t + t	mlɛt.túⁱ, nakətɛt.təkʰœ̃n	wakung, nyhmoye	2	U+0074 U+0074
+íː	ɨː	ɗíːk	daai	2	U+00ed U+02d0
+^ms	m s	msuːŋ, msɨn	ngmuun, daai	2	U+005e U+006d U+0073
+^e	e	eŋ.lám, ei.šʰon	ngmuun	2	U+005e U+0065
+^ú	u	úi	daai, nyhmoye	2	U+005e U+00fa
+ã$	ã	hã, kã	wakung	2	U+00e3 U+0024
+^sᵊ	s ə	sᵊxi, sᵊkilililu	wakung	2	U+005e U+0073 U+1d4a
+ʌ	ʌ	m̩pʌum, nʌʔ	ngmuun, nyhmoye	2	U+028c
+^ĩ	ĩ	ĩn, ĩnpʰú	wakung	2	U+005e U+0129
+iː$	iː	šʰiː, liː	mkaang, nyhmoye	2	U+0069 U+02d0 U+0024
+^ˀkʰ	ˀkʰ	ˀkʰá, ˀkʰamú	daai	2	U+005e U+02c0 U+006b U+02b0
+oˀ$	o ʔ	joˀ, ḁɴoˀ	chinbon	2	U+006f U+02c0 U+0024
+_̂k	k	sala.mɗɛ ̂k, kʰɔnamɗɛ ̂k	nyhmoye	2	U+005f U+0302
+^a$	a	a	chinbon, daai	2	U+005e U+0061 U+0024
+^ŋ̩s	ŋ̍ s	ŋ̩sɛt, ŋ̩siːk	ngmuun, nyhmoye	2	U+005e U+014b U+0329 U+0073
+áːⁱ$	aːi	tᵊ◦máːⁱ, kᵊsʰáːⁱ	khumi	2	U+00e1 U+02d0 U+2071 U+0024
+əᵘ$	əu	tïⁱaʔjəᵘ, ɓəᵘ	chinbon	2	U+0259 U+1d58 U+0024
+ɛ̃	ɛ̃	tʰeⁱŋ.ɓɛ̃ʔ, əkʰɛ̃ŋ	khumi	2	U+025b U+0303
+msʰ	m sʰ	kamsʰeŋ, niːmsʰora	khumi	2	U+006d U+0073 U+02b0
+jʰ	jʰ	pjʰahɔt	chinbon	1	U+006a U+02b0
+ˀɓ	ˀɓ	m̩tan.ˀɓəm	daai	1	U+02c0 U+0253
+s̆	ʃ	sʰɨŋ.s̆in	ngmuun	1	U+0073 U+0306
+nh	n h	apənhiʔ	chinbon	1	U+006e U+0068
+_́$	NULL	ʔkʰa◦mu ́	ngmuun	1	U+005f U+0301 U+0024
+mh	m h	kamhĩŋ	khumi	1	U+006d U+0068
+ɔᵘ$	ɔu	ɓɔᵘ	daai	1	U+0254 U+1d58 U+0024
+áᵘ	au	káᵘʔ	khumi	1	U+00e1 U+1d58
+šⁱ$	ʃ i	ŋmɛ.tšⁱ	nyhmoye	1	U+0161 U+2071 U+0024
+^ɛⁱ	ɛi	ɛⁱŋ.lám	mkaang	1	U+005e U+025b U+2071
+è	e	kᵊlèʔ	wakung	1	U+00e8
+ı̈ⁱ	ɨi	pᵊsʰı̈ⁱʔ	khumi	1	U+0131 U+0308 U+2071
+^ˀp	ˀp	ˀpɣʰu.ɴaːm	nyhmoye	1	U+005e U+02c0 U+0070
+ɛ́	ɛ	nɛ́i	khumi	1	U+025b U+0301
+ts̆	tʃ	pants̆i	mkaang	1	U+0074 U+0073 U+0306
+^nᵊ	n ə	nᵊø	wakung	1	U+005e U+006e U+1d4a
+ɔˀ$	ɔ ʔ	ɣaⁱɣɔˀ	mkaang	1	U+0254 U+02c0 U+0024
+^ə$	ə	ə	khumi	1	U+005e U+0259 U+0024
+ɔ́ːⁱ	ɔːi	hɔ́ːⁱʔ	khumi	1	U+0254 U+0301 U+02d0 U+2071
+é$	e	céⁱniʔé	nyhmoye	1	U+00e9 U+0024
+^ɛᵘ	ɛu	ɛᵘk	khumi	1	U+005e U+025b U+1d58
+ɔː$	ɔː	šɔː	mkaang	1	U+0254 U+02d0 U+0024
+eːⁱ	eːi	kʰeːⁱ.pɔːt	chinbon	1	U+0065 U+02d0 U+2071
+ə́ⁱ$	əi	ŋ̩.ə́ⁱ	daai	1	U+0259 U+0301 U+2071 U+0024
+mⁱ	m i	kéⁱmⁱʔ	mkaang	1	U+006d U+2071
+ʌ́ː$	ʌː	m̩◦nʌ́ː	nyhmoye	1	U+028c U+0301 U+02d0 U+0024
+^y$	y	y	wakung	1	U+005e U+0079 U+0024
+p.p	p + p	kʰɛp.pɔːt	chinbon	1	U+0070 U+0070
+ḁh	ḁ/a h	pḁhɔt	chinbon	1	U+1e01 U+0068
+kʰ	kʰ	
+^ˀt	ˀt	ˀtúⁱ	daai	1	U+005e U+02c0 U+0074
+éⁱˀ	ei ʔ	tʰéⁱˀtʰeⁱ	nyhmoye	1	U+00e9 U+2071 U+02c0
+aⁱˀ	ai ʔ	ləpaⁱˀ◦aːⁱ	matu	1	U+0061 U+2071 U+02c0
+m.m	m + m	im.moʔnï	chinbon	1	U+006d U+006d
+áː	aː	láːk	nyhmoye	1	U+00e1 U+02d0
+ẽᶺ	ẽʌ	naⁱʔɗẽᶺŋ.kʰo.ə	khumi	1	U+1ebd U+1dba
+ɜ	ɜ	ɓɔk.kɜm	mkaang	1	U+025c
+◦ˀ	+ ʔ	sʰa◦ˀei	nyhmoye	1	U+25e6 U+02c0
+ɣh	ɣ h	ʔkɣhú	daai	1	U+0263 U+0068
+ɔˀ	ɔ ʔ	kʰɔˀpɣɔŋ	nyhmoye	1	U+0254 U+02c0
+iᵘ	iu	tᵊriᵘʔ	khumi	1	U+0069 U+1d58
+ɶ$	ɶ	kʰɶ	wakung	1	U+0276 U+0024
+^kᵊh	k ə h	kᵊha	wakung	1	U+005e U+006b U+1d4a U+0068
+ɔ̀ːⁱ$	ɔːi	mɔ̀ːⁱ	khumi	1	U+0254 U+0300 U+02d0 U+2071 U+0024
+u_́ⁱ|	ui	tu ́ⁱ|◦lɔŋ.nú	mkaang	1	U+005f U+0301 U+2071 U+007c
+oⁱ	oi	noⁱrɔ̃ŋ	khumi	1	U+006f U+2071
+^uːⁱ$	uːi	uːⁱ	khumi	1	U+005e U+0075 U+02d0 U+2071 U+0024
+^aⁱ$	ai	aⁱ	mkaang	1	U+005e U+0061 U+2071 U+0024
+^y	y	y.aŋ	wakung	1	U+005e U+0079
+k.kʰ	k + kʰ	
+^mᵊh	m ə h	mᵊhéiʔ	wakung	1	U+005e U+006d U+1d4a U+0068
+ɔⁱ	ɔi
+ý$	y	a◦dý	wakung	1	U+00fd U+0024
+ɔⁱˀ$	ɔi ʔ	tɔŋɓɔⁱˀ	khumi	1	U+0254 U+2071 U+02c0 U+0024
+ɛ́ᶺ	ɛʌ	tʰaⁱdɛ́ᶺŋ	khumi	1	U+025b U+0301 U+1dba
+ïⁱsʰ	ɨi sʰ	ʔkɹʰïⁱsʰak	ngmuun	1	U+00ef U+2071 U+0073 U+02b0
+^n̩s	n̩ s	n̩sɛt	matu	1	U+005e U+006e U+0329 U+0073
+^ɔˀ$	ɔ ʔ	ɔˀ	wakung	1	U+005e U+0254 U+02c0 U+0024
+lsʰ	l sʰ	hilsʰaŋ	matu	1	U+006c U+0073 U+02b0
+ïⁱh	ɨi h	mïⁱho	chinbon	1	U+00ef U+2071 U+0068
+əːⁱ	əːi	ʔəːⁱeⁱ	chinbon	1	U+0259 U+02d0 U+2071
+iᵋ$	i ɛ	tšiᵋ	mkaang	1	U+0069 U+1d4b U+0024
+^ˀsʰ	ˀsʰ	ˀsʰiˀ	ngmuun	1	U+005e U+02c0 U+0073 U+02b0
+^msʰ	m sʰ	msʰaⁱ	ngmuun	1	U+005e U+006d U+0073 U+02b0
+kᵊs	k ə s	veᵘŋkᵊsi	khumi	1	U+006b U+1d4a U+0073
+^tᵊh	t ə h	tᵊhóʔ	khumi	1	U+005e U+0074 U+1d4a U+0068
+œ̀	œ	pœ̀ʔ	wakung	1	U+0153 U+0300
+áː$	aː	ḁ◦tʰáː	nyhmoye	1	U+00e1 U+02d0 U+0024
+tⁱ	t i	kutⁱ.ətʰaⁱˀ	khumi	1	U+0074 U+2071
+^k̯ʰ	kʰ	k̯ʰïⁱ	mkaang	1	U+005e U+006b U+032f U+02b0
+óⁱ$	oi	vóⁱ	khumi	1	U+00f3 U+2071 U+0024
+à$	a	taŋkà	khumi	1	U+00e0 U+0024
+^ïⁱ$	ɨi	ïⁱ	chinbon	1	U+005e U+00ef U+2071 U+0024
+ɔ̀$	ɔ	taᵘkɔ̀	wakung	1	U+0254 U+0300 U+0024
+^eⁱ	ei	eⁱ.sʰɔːn	daai	1	U+005e U+0065 U+2071
+eⁱˀ	ei ʔ	tʰeⁱˀ◦ts̆ʰɔːŋ	nyhmoye	1	U+0065 U+2071 U+02c0
+uːⁱ	uːi	m̩puːⁱha	nyhmoye	1	U+0075 U+02d0 U+2071
+i̥	i̥/i	pi̥hiʔ	chinbon	1	U+0069 U+0325
+áːⁱ	aːi	kᵊsʰáːⁱ.ho	khumi	1	U+00e1 U+02d0 U+2071
+ɛᵘ$	ɛu	pᵊlɛᵘ	khumi	1	U+025b U+1d58 U+0024
+ɨⁱ$	ɨi	ɣɨⁱ	ngmuun	1	U+0268 U+2071 U+0024
+ïⁱˀ$	ɨi ʔ	ḁ◦tïⁱˀ	chinbon	1	U+00ef U+2071 U+02c0 U+0024
+ïːⁱ$	ɨːi	ŋ̩ɗïːⁱ	ngmuun	1	U+00ef U+02d0 U+2071 U+0024
+k.k	k + k	ɓɔk.kɜm	mkaang	1	U+006b U+006b
+nⁱ	n i	aʔnⁱʔ	matu	1	U+006e U+2071
+áˀ	a ʔ	sʰaˀkʰáˀtʰeⁱˀ	daai	1	U+00e1 U+02c0
+aːⁱˀ$	aːi ʔ	rampaːⁱˀ	khumi	1	U+0061 U+02d0 U+2071 U+02c0 U+0024
+ŋ̩h	ŋ̍ h	tšʰa.ŋ̩huːt	ngmuun	1	U+014b U+0329 U+0068
+áⁱ	ai	sũŋváⁱʔ	khumi	1	U+00e1 U+2071
+óˀ$	o ʔ	lóˀ	khumi	1	U+00f3 U+02c0 U+0024
+ns̆	n ʃ	pans̆i	ngmuun	1	U+006e U+0073 U+0306
+iᵋ	iɛ	ḁsiᵋn	nyhmoye	1	U+0069 U+1d4b
+^ˀtʰ	ˀtʰ	ˀtʰeⁱˀ	daai	1	U+005e U+02c0 U+0074 U+02b0
+^ˀk	ˀk	ˀkɣʰïŋ.sʰeⁱ	daai	1	U+005e U+02c0 U+006b
+sᵊ	s ə	pʰysᵊkə	wakung	1	U+0073 U+1d4a
+^sʰᶺ$	sʰ ʌ	sʰᶺ	nyhmoye	1	U+005e U+0073 U+02b0 U+1dba U+0024
+ɔ̃$	ɔ̃	ɓɔ̃káɓɔ̃	wakung	1	U+0254 U+0303 U+0024
+s̆ʰ	ʃʰ	kʰo.s̆ʰi	chinbon	1	U+0073 U+0306 U+02b0
+ʔh	ʔ h	hanɛʔhɛ	wakung	1	U+0294 U+0068
+ŋsʰ	ŋ sʰ	ḁxuŋsʰĩŋ	wakung	1	U+014b U+0073 U+02b0
+ùˀ$	u ʔ	məkùˀ	khumi	1	U+00f9 U+02c0 U+0024
+^ŋ̩h	ŋ̍ h	ŋ̩hɔi.lám	ngmuun	1	U+005e U+014b U+0329 U+0068
