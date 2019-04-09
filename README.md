@@ -9,7 +9,7 @@ Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HS
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/lexibank/sohartmannchin.svg?branch=master)](https://travis-ci.org/lexibank/sohartmannchin)
 ![Glottolog: 87%](https://img.shields.io/badge/Glottolog-87%25-yellowgreen.svg "Glottolog: 87%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -20,7 +20,6 @@ Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HS
 - **Concepts:** 280
 - **Lexemes:** 2,171
 - **Synonymy:** 1.02
-- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 8,881
 - **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)

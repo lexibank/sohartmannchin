@@ -5,6 +5,7 @@
     "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL",
     "dc:source": "sources.bib",
     "dc:title": "Notes on the Southern Chin Languages",
+    "dcat:accessURL": "https://github.com/lexibank/sohartmannchin",
     "rdf:ID": "sohartmannchin",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -14,8 +15,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-180-g017cfba"
+                "glottolog_version": "v3.4",
+                "concepticon_version": "v2.0"
             }
         }
     ],
