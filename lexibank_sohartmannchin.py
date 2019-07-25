@@ -14,13 +14,13 @@ class Dataset(BaseDataset):
         with self.cldf as ds:
             ds.add_sources()
             ds.add_languages(id_factory=lambda l: slug(l["Name"]))
-            for concept in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=slug(concept["ENGLISH"]),
-                    Name=concept["ENGLISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    ID=slug(concept.english),
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
                 )
-
             # add lexemes
             wl = Wordlist(self.raw.posix("HSH-SCL.csv"))
             for idx in pb(wl, desc="cldfify"):

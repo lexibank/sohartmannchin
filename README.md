@@ -2,9 +2,18 @@
 
 Cite the source dataset as
 
-> So-Hartmann, Helga. 1988. Notes on the Southern Chin Languages. LTBA 11.2:98-119. Accessed via STEDT database <http://stedt.berkeley.edu/search/> on 2019-04-04.
+> So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.
 
 Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL
+
+Conceptlists in Concepticon:
+- [SoHartmann-1988-280](http://concepticon.clld.org/contributions/SoHartmann-1988-280)
+
+## Notes
+
+This dataset of Chin varieties was taken from the STEDT database. While we tried to normalize the non-standard transcription system as good as possible, it is still possible that we have falsely interpreted certain values.
+
+
 
 ## Statistics
 
@@ -22,6 +31,6 @@ Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HS
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 8,881
-- **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
-- **Inventory size (avg):** 71.62
+- **Tokens:** 8,871
+- **Segments:** 133 (0 BIPA errors, 0 CTLS sound class errors, 133 CLTS modified)
+- **Inventory size (avg):** 70.88

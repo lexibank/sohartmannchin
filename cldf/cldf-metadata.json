@@ -1,15 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "So-Hartmann, Helga. 1988. Notes on the Southern Chin Languages. LTBA 11.2:98-119. Accessed via STEDT database <http://stedt.berkeley.edu/search/> on 2019-04-04.",
+    "dc:bibliographicCitation": "So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/SoHartmann-1988-280"
+    ],
     "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL",
     "dc:isVersionOf": null,
     "dc:license": null,
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Notes on the Southern Chin Languages",
+    "dcat:accessURL": "https://github.com/lexibank/sohartmannchin",
     "rdf:ID": "sohartmannchin",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "v4.0-12-ge90a2e3",
+                "concepticon_version": "v2.0-28-g30d405a"
             }
         }
     ],

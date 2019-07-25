@@ -1,0 +1,1 @@
+This dataset of Chin varieties was taken from the STEDT database. While we tried to normalize the non-standard transcription system as good as possible, it is still possible that we have falsely interpreted certain values.
