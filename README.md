@@ -31,6 +31,6 @@ This dataset of Chin varieties was taken from the STEDT database. While we tried
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 8,871
-- **Segments:** 133 (0 BIPA errors, 0 CTLS sound class errors, 133 CLTS modified)
-- **Inventory size (avg):** 70.88
+- **Tokens:** 8,645
+- **Segments:** 189 (0 BIPA errors, 0 CTLS sound class errors, 189 CLTS modified)
+- **Inventory size (avg):** 87.38
