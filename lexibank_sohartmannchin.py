@@ -1,14 +1,14 @@
-from clldutils.misc import slug
-from clldutils.path import Path
-from lingpy import *
+from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import pb
-from pylexibank.dataset import Concept, Language
-import attr
+from pylexibank import Concept, Language
 
+from clldutils.misc import slug
+import attr
+from lingpy import *
 
 @attr.s
-class HLanguage(Language):
+class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     ChineseName = attr.ib(default=None)
@@ -16,31 +16,29 @@ class HLanguage(Language):
     Family = attr.ib(default='Sino-Tibetan')
     DialectGroup = attr.ib(default=None)
 
+@attr.s
+class CustomConcept(Concept):
+    SrcID = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "sohartmannchin"
-    language_class = HLanguage
+    language_class = CustomLanguage
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
 
-        with self.cldf as ds:
-            ds.add_sources()
-            languages = {l['Name']: l['ID'] for l in self.languages}
-            ds.add_languages()
-            for concept in self.conceptlist.concepts.values():
-                ds.add_concept(
-                    ID=slug(concept.english),
-                    Name=concept.english,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss
-                )
-            # add lexemes
-            wl = Wordlist(self.raw.posix("HSH-SCL.csv"))
-            for idx in pb(wl, desc="cldfify"):
-                ds.add_lexemes(
-                    Language_ID=languages[wl[idx, "language"]],
-                    Value=wl[idx, "reflex"],
-                    Source="SoHartmann1988",
-                    Parameter_ID=slug(wl[idx, "concept"]),
-                )
+        args.writer.add_sources()
+        language_lookup = args.writer.add_languages(
+                lookup_factory="Name")
+        concept_lookup = args.writer.add_concepts(
+                id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
+                lookup_factory='Name')
+        wl = Wordlist(self.raw_dir.joinpath("HSH-SCL.csv").as_posix())
+        for idx in pb(wl):
+            args.writer.add_forms_from_value(
+                Language_ID=language_lookup[wl[idx, "language"]],
+                Value=wl[idx, "reflex"],
+                Source=["SoHartmann1988"],
+                Parameter_ID=concept_lookup[wl[idx, "concept"]]
+            )

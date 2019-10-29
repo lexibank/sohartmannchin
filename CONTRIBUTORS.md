@@ -3,4 +3,4 @@
 Name | GitHub user | Role
 --- | --- | ---
 Johann-Mattis List | @LinguList | maintainer
-STEDT | | digitization
+STEDT | http://stedt.berkeley.edu/ | digitization

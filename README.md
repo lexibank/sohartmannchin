@@ -6,9 +6,9 @@ Cite the source dataset as
 
 Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL
 
-Conceptlists in Concepticon:
-- [SoHartmann-1988-280](http://concepticon.clld.org/contributions/SoHartmann-1988-280)
 
+Conceptlists in Concepticon:
+- [SoHartmann-1988-280](https://concepticon.clld.org/contributions/SoHartmann-1988-280)
 ## Notes
 
 This dataset of Chin varieties was taken from the STEDT database. While we tried to normalize the non-standard transcription system as good as possible, it is still possible that we have falsely interpreted certain values.
