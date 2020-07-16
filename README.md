@@ -1,4 +1,4 @@
-# Notes on the Southern Chin Languages
+# CLDF dataset derived from So-Hartmann's "Notes on the Southern Chin Languages" from 1988
 
 Cite the source dataset as
 
@@ -34,3 +34,12 @@ This dataset of Chin varieties was taken from the STEDT database. While we tried
 - **Tokens:** 8,645
 - **Segments:** 189 (0 BIPA errors, 0 CTLS sound class errors, 189 CLTS modified)
 - **Inventory size (avg):** 87.38
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | | Maintainer
+STEDT | http://stedt.berkeley.edu/ | digitization | Editor
+
+

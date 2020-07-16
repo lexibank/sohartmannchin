@@ -1,6 +1,6 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-STEDT | http://stedt.berkeley.edu/ | digitization
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | | Maintainer
+STEDT | http://stedt.berkeley.edu/ | digitization | Editor
