@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL
 
 

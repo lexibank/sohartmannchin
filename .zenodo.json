@@ -22,5 +22,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

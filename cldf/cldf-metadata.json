@@ -8,6 +8,7 @@
     ],
     "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from So-Hartmann's \"Notes on the Southern Chin Languages\" from 1988",
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/sohartmannchin",
-            "dc:created": "v2.0-1-gdc6a2aa"
+            "dc:created": "v2.0-2-g139683c"
         },
         {
             "rdf:type": "prov:Entity",
