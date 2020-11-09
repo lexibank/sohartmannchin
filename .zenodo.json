@@ -1,0 +1,26 @@
+{
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "upload_type": "dataset",
+    "contributors": [
+        {
+            "type": "Other",
+            "name": "STEDT"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "title": "Notes on the Southern Chin Languages",
+    "access_right": "open",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.</p>\n</blockquote>"
+}

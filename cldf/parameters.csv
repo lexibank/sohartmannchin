@@ -123,10 +123,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 122_intestines,intestines,1991,INTESTINES
 123_kill,kill,1417,KILL
 124_knee,knee,1371,KNEE
-125_know,know,1410,KNOW (SOMETHING)
+125_know,know,3626,KNOW
 126_lake,lake,624,LAKE
 127_laugh,laugh,1355,LAUGH
-128_launder,launder,2503,LAUNDER
+128_launder,launder,2503,LAUNDER (WASH CLOTHES)
 129_leaf,leaf,628,LEAF
 130_leftside,leftside,244,LEFT
 131_leg,leg,1297,LEG
@@ -141,7 +141,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 140_mist,mist,249,FOG
 141_monkey,monkey,1350,MONKEY
 142_moon,moon,1313,MOON
-143_mortar,mortar,224,MORTAR CRUSHER
+143_mortar,mortar,224,MORTAR
 144_mosquito,mosquito,1509,MOSQUITO
 145_mother,mother,1216,MOTHER
 146_mountain,mountain,639,MOUNTAIN
@@ -238,7 +238,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 237_there,there,1937,THERE
 238_they,they,817,THEY
 239_thick,thick,1244,THICK
-240_thigh,thigh,800,THIGH
+240_thigh,thigh,471,UPPER LEG (THIGH)
 241_thin,thin,2308,THIN
 242_think,think,1415,THINK (REFLECT)
 243_this,this,1214,THIS
