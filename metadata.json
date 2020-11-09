@@ -1,7 +1,7 @@
 {
     "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL",
     "citation": "So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.",
-    "license": null,
-    "title": "Notes on the Southern Chin Languages",
+    "license": "CC-BY-4.0",
+    "title": "CLDF dataset derived from So-Hartmann's \"Notes on the Southern Chin Languages\" from 1988",
     "conceptlist": "SoHartmann-1988-280"
 }

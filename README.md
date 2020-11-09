@@ -1,8 +1,10 @@
-# Notes on the Southern Chin Languages
+# CLDF dataset derived from So-Hartmann's "Notes on the Southern Chin Languages" from 1988
 
 Cite the source dataset as
 
 > So-Hartmann, Helga (1988): Notes on the Southern Chin Languages. Linguistics of the Tibeto-Burman Area 11.2: 98-119.
+
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL
 
@@ -37,9 +39,9 @@ This dataset of Chin varieties was taken from the STEDT database. While we tried
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-STEDT | http://stedt.berkeley.edu/ | digitization
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | | Maintainer
+STEDT | http://stedt.berkeley.edu/ | digitization | Editor
 
 

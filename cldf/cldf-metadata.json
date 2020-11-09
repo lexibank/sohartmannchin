@@ -8,22 +8,17 @@
     ],
     "dc:identifier": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/HSH-SCL",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Notes on the Southern Chin Languages",
+    "dc:title": "CLDF dataset derived from So-Hartmann's \"Notes on the Southern Chin Languages\" from 1988",
     "dcat:accessURL": "https://github.com/lexibank/sohartmannchin",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/sohartmannchin",
-            "dc:created": "v1.0.1-8-g2df6c14"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v1.0.1-9-g64d5830"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,6 +31,12 @@
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -218,15 +219,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "ChineseName"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "SubGroup"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "DialectGroup"
                     }
                 ],
                 "primaryKey": [
