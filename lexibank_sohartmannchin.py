@@ -1,15 +1,13 @@
 from pathlib import Path
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import progressbar
-from pylexibank import Concept, Language
 
-from clldutils.misc import slug
 import attr
-from lingpy import *
+import lingpy
+import pylexibank
+from clldutils.misc import slug
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default="Chin")
@@ -17,11 +15,11 @@ class CustomLanguage(Language):
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     SrcID = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "sohartmannchin"
     language_class = CustomLanguage
@@ -33,8 +31,8 @@ class Dataset(BaseDataset):
         concept_lookup = args.writer.add_concepts(
             id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english), lookup_factory="Name"
         )
-        wl = Wordlist(self.raw_dir.joinpath("HSH-SCL.csv").as_posix())
-        for idx in progressbar(wl):
+        wl = lingpy.Wordlist(self.raw_dir.joinpath("HSH-SCL.csv").as_posix())
+        for idx in pylexibank.progressbar(wl):
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[wl[idx, "language"]],
                 Value=wl[idx, "reflex"],
