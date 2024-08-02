@@ -1,8 +1,12 @@
 {
     "contributors": [
         {
-            "name": "STEDT",
+            "name": "Johann-Mattis List",
             "type": "Editor"
+        },
+        {
+            "name": "STEDT",
+            "type": "Distributor"
         }
     ],
     "title": "CLDF dataset derived from So-Hartmann's \"Notes on the Southern Chin Languages\" from 1988",
@@ -12,9 +16,6 @@
         "linguistics"
     ],
     "creators": [
-        {
-            "name": "Johann-Mattis List"
-        },
         {
             "name": "Helga So-Hartmann"
         }
